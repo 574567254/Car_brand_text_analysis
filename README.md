@@ -13,6 +13,6 @@ To make this project organized and well-constructed, we break it into three main
 
 • In the third session, we come up with the most aspirational brand in terms of people actually wanting to own and valuable business implications, based     on the forum we choose.
 
-See Test Analysis Project Jupyter Notebook for detail analysis
+### See Test Analysis Project Jupyter Notebook for detail analysis
 
-All the external data used in our project are in the data_used folder
+### All the external data used in our project are in the data_used folder
