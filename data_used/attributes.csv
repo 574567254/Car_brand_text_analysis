@@ -1,0 +1,19 @@
+range,range_f,performance,performance_f,comfort,comfort_f,vehicle_architecture,vehicle_architecture_f,safety,safety_f,drivability,drivability_f,interior_sound,interior_sound_f,thermal_management,thermal_management_f,energy_management,energy_management_f,appearance,appearance_f,cost_efficiency,cost_efficiency_f
+last,198,manual,125,leather,93,year,276,accident,110,miles,885,interior,161,oil,51,power,52,new,505,trade,408
+months,146,pick,50,vroom,80,condition,246,repair,109,drive,337,radio,21,hybrid,29,gas,35,look,470,dealer,418
+road,59,heat,49,small,60,model ,159,damage,89,mileage,128,noise,14,equipment,19,equipment,19,black,234,value,470
+speed,56,quick,49,sit,51,seat,133,accidents,72,navigation,23,speakers,11,electrical,18,electrical,18,old,188,pay,260
+hour,20,roadburner,42,size,49,engine,126,reliable,36,commute,22,,,radiator,18,battery,13,blue,139,cheap,64
+young,18,performance,24,comfortable,42,wheel,121,safety,20,mrs,18,,,battery,13,electric,11,color,117,lease,209
+period,17,strong,23,roomy,26,depreciation,28,hurt,15,snow,17,,,,,electronic,7,white,108,deal,188
+6-speed,15,fast,20,huge,25,frame,27,safe,14,vehiclehistory,9,,,,,gasoline,7,red,85,trade-in,88
+low-end,9,eyesight,6,large,18,camera,26,reliability,9,low-mileage,8,,,,,,,dark,51,expensive,62
+volume,7,heaters,6,comfort,15,vehicledetail,26,incident,7,,,,,,,,,brown,29,sales,51
+,,,,space,14,maintain,19,uninsured,4,,,,,,,,,pearl,18,luxury,31
+,,,,convenience,8,convertible,19,,,,,,,,,,,dirty,17,cheaper,32
+,,,,,,screen,18,,,,,,,,,,,green,15,bargain,17
+,,,,,,window,16,,,,,,,,,,,yellow,12,overprice,14
+,,,,,,roadster,15,,,,,,,,,,,appearance,11,,
+,,,,,,mini,15,,,,,,,,,,,beautiful,9,,
+,,,,,,glass,11,,,,,,,,,,,scar,9,,
+,,,,,,wheelbase,6,,,,,,,,,,,gold,9,,
