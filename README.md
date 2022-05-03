@@ -13,6 +13,6 @@ To make this project organized and well-constructed, we break it into three main
 
 • In the third session, we come up with the most aspirational brand in terms of people actually wanting to own and valuable business implications, based on the forum we choose.
 
-#### See car brand analysis Jupyter Notebook for detailed analysis
+#### See [car brand analysis](https://github.com/574567254/Car_brand_text_analysis/blob/78345e989e2c48c28000f65e0b78d9a6194477cc/Car_Brand_Analysis.ipynb) Jupyter Notebook for detailed analysis
 
-#### All the external data used in our project are in the data_used folder
+#### All the external data used in our project are in the [data_used](https://github.com/574567254/Car_brand_text_analysis/blob/78345e989e2c48c28000f65e0b78d9a6194477cc/data_used) folder
